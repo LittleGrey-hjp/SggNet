@@ -51,23 +51,21 @@ pip install -r requirements.txt
 ```
 
 ### Training Configuration
+The pretrained model(MobileNetv2) is stored in [Google Drive]() and [Baidu Drive]() (). After downloading, please change the file path in the corresponding code.
 ```bash
-- The pretrained model(MobileNetv2) is stored in [Google Drive]() and [Baidu Drive]() (). After downloading, please change the file path in the corresponding code.
-- Run `train.sh` to train.
+Run `train.sh` to train.
 ```
 
 ### Testing Configuration
+Our well-trained model is stored in [Google Drive]() and [Baidu Drive]() (). After downloading, please change the file path in the corresponding code.
 ```bash
-- Our well-trained model is stored in [Google Drive]() and [Baidu Drive]() (). After downloading, please change the file path in the corresponding code.
-- Run `test.sh` to train.
+Run `test.sh` to train.
 ```
 
 ### Evaluation
 
-```bash
 - Evaluate SggNet: After configuring the test dataset path, run `eval.sh` in the `srun` folder for evaluation.
 - PR-Curves: We provide the code for obtaining PR-Curves through detection results. Please refer to 'PR_Curve.py'.
-```
 
 ---
 
