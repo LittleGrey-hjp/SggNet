@@ -1,5 +1,4 @@
-# SggNet: A Lightweight Semantic- and Graph-Guided Network for Advanced Optical Remote Sensing Image Salient Object Detection (Under Review)
-
+# SggNet: A Lightweight Semantic- and Graph-Guided Network for Advanced Optical Remote Sensing Image Salient Object Detection
 ---
 
 ## 🚨 Notice
