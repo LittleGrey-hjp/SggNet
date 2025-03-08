@@ -49,16 +49,21 @@ pip install -r requirements.txt
 ```
 
 ### Training Configuration
-The pretrained model(MobileNetv2) is stored in [Google Drive]() and [Baidu Drive]() (). After downloading, please change the file path in the corresponding code.
+The pretrained model(MobileNetv2) is stored in [Google Drive](https://drive.google.com/file/d/1rhBFs-P3M7zQyLv8IDXTqa-pmioy2qLy/view?usp=drive_link) and [Baidu Drive](https://pan.baidu.com/s/1xVT_ebonD5bK6U39oSodFQ) (zskr). After downloading, please change the file path in the corresponding code.
 ```bash
 Run `train.sh` to train.
 ```
 
 ### Testing Configuration
-Our well-trained model is stored in [Google Drive]() and [Baidu Drive]() (). After downloading, please change the file path in the corresponding code.
+Our well-trained model is stored in [Google Drive](https://drive.google.com/file/d/14mHtCHAZrLik2ZVH3CRqX2_d7L6lu6NO/view?usp=drive_link) and [Baidu Drive](https://pan.baidu.com/s/1dQU5eXDyeSVIHMm2BjvwWA) (3knk). After downloading, please change the file path in the corresponding code.
 ```bash
 Run `test.sh` to train.
 ```
+
+### Detection Maps
+Our Detection Maps are stored in [Google Drive](https://drive.google.com/drive/folders/1dYkE5saknjTFtLbMQHa37us59Vt6XK4v?usp=drive_link). Please check.
+```bash
+Run `test.sh` to train.
 
 ### Evaluation
 
