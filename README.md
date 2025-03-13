@@ -54,7 +54,7 @@ Run `test.sh` to train.
 ```
 
 ### Detection Maps
-Our Detection Maps are stored in [Google Drive](https://drive.google.com/drive/folders/1dYkE5saknjTFtLbMQHa37us59Vt6XK4v?usp=drive_link). Please check.
+Our Detection Maps are stored in [Google Drive](https://drive.google.com/drive/folders/1dYkE5saknjTFtLbMQHa37us59Vt6XK4v?usp=drive_link) and [Baidu Drive](https://pan.baidu.com/s/1mAdkJcLY8p-e1fLuwvjMhw).(qjbw). Please check.
 ```bash
 Run `test.sh` to train.
 
