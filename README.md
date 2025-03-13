@@ -71,11 +71,20 @@ For questions or feedback, feel free to open an issue on GitHub or contact us vi
 
 ---
 
-
-### 💡 Stay Updated
-
-We appreciate your interest and patience! The full implementation and additional resources will be made available after the review process is complete. 🎉
-
---- 
+### Citation
+```bash
+@Article{rs17050861,
+AUTHOR = {Liu, Jie and He, Jinpeng and Chen, Huaixin and Yang, Ruoyu and Huang, Ying},
+TITLE = {A Lightweight Semantic- and Graph-Guided Network for Advanced Optical Remote Sensing Image Salient Object Detection},
+JOURNAL = {Remote Sensing},
+VOLUME = {17},
+YEAR = {2025},
+NUMBER = {5},
+ARTICLE-NUMBER = {861},
+URL = {https://www.mdpi.com/2072-4292/17/5/861},
+ISSN = {2072-4292},
+DOI = {10.3390/rs17050861}
+}
+```
 
 Let me know if you’d like additional customization!
